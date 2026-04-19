@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1",
+  "defaults": {
+    "recent_count": 20,
+    "search_context_lines": 0,
+    "date_format": "%Y-%m-%d %H:%M",
+    "iso_format": "%Y-%m-%dT%H:%M:%S%z"
+  },
+  "tag_rules": {
+    "pattern": "^[a-z0-9-]+$",
+    "max_length": 30,
+    "auto_strip_hash": true
+  }
+}
