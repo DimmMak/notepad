@@ -3,7 +3,7 @@ name: notepad
 domain: general
 version: 0.1.0
 description: >
-  Append-only bulletpoint logbook. Every entry auto-tagged with date / time / ISO timestamp / optional user-supplied tags. Quick capture like Windows 11 Notepad, plus recall-by-tag and time-window filters. One flat markdown stream — yours forever, readable anywhere. NOT for: structured knowledge bases (use courserafied). NOT for: scheduled reminders (use schedule). NOT for: long-form writing (use journalist).
+  Append-only bulletpoint logbook. Every entry auto-tagged with date / time / ISO timestamp / optional user-supplied tags. Quick capture like Windows 11 Notepad, plus recall-by-tag and time-window filters. One flat markdown stream — yours forever, readable anywhere. NOT for: structured knowledge bases (use courserafied). NOT for: scheduled reminders (use schedule). NOT for: long-form writing (use journalist). NOT for: thesis-tier captures, mental models, frameworks, or "I should remember this" insights (use ideas — different lane, structured 8-field format).
 capabilities:
   reads:
     - notes/log.md
